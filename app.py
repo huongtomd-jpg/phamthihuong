@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - phạm Thị Hương - Trường Tiểu học Minh Dân - ĐT: 0941 273 417", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - phạm Thị Hương - Trường Tiểu học Minh Dân - ĐT: 0941 273 417</p> unsafe_allow_html=True)
